@@ -8,7 +8,7 @@ However the long term goals of Index are to accept bonds for DAOs cross-chain so
 
 ## Liquidity Bootstrapping Event
 
-Our Liquidity Bootstrapping Event is currently live and accepting whitelist spots. Join our [Discord server](https://discord.gg/indexdao) to claim your spot! In total 100,000 INDEX are available at a price of 5 MIM with a maximum allocation of 1,000 MIM per person. The funds raised from this event will be split as such:
+In total 52,969 INDEX were sold during the liquidity bootstrapping event for a total of 310,164 MIM. The funds raised from this event will be split as such:
 
 * 50% - Liquidity
 * 30% - Treasury
