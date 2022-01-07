@@ -24,6 +24,13 @@
 
 ## GET INVOLVED
 
-* [Links](get-involved/links.md)
 * [Translations](get-involved/translations.md)
 * [Marketing Materials](get-involved/marketing-materials.md)
+
+## CONNECT
+
+* [Website](https://www.indexdao.finance)
+* [Discord](https://discord.gg/indexdao)
+* [GitHub](https://github.com/indexdao)
+* [Medium](https://indexdao.medium.com)
+* [Twitter](https://twitter.com/index_dao)
